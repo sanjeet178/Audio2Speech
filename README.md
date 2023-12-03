@@ -2,10 +2,10 @@
 
 ## Overview
 
-This Python project leverages state-of-the-art techniques to learn audio samples and predict common commands (up, down, right, left)
+This Python project leverages state-of-the-art techniques to learn audio samples and predict common commands (up, down, right, left). The audios were converted to log-mel spectrograms. 
 ## Augmentation Techniques implemented
-- VLTP (Vocal-Tract Length Perturbation)
-Several Augmentation techniques were tried and tested, it was found that VLTP was the most robust in terms of performance and output.
+- VLTP (Vocal-Tract Length Perturbation), Time stretching, Volume standardisation
+Several Augmentation techniques were tried and tested, it was found that the aforementioned augmentation techniques were the most robust in terms of performance and output.
 
 ## Installation
 
