@@ -4,8 +4,8 @@
 
 This Python project leverages state-of-the-art techniques to learn audio samples and predict common commands (up, down, right, left)
 ## Augmentation Techniques implemented
-- Pitch Scaling
 - VLTP (Vocal-Tract Length Perturbation)
+Several Augmentation techniques were tried and tested, it was found that VLTP was the most robust in terms of performance and output.
 
 ## Installation
 
