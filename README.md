@@ -10,7 +10,7 @@ This Python project leverages state-of-the-art techniques to learn audio samples
  <img src="https://github.com/sanjeet178/Audio2Speech/assets/69724036/8b648d0b-aee3-4cc1-9834-99dbe614c924" width="400">
 
 - Data Augmentation techniques were implmented on spectrograms
-- CNN was trained was classifying the sounds
+- CNN (convolutional neural network) was trained was classifying the sounds
   
 ## Augmentation Techniques implemented
 - VLTP (Vocal-Tract Length Perturbation), Time stretching, Volume standardisation
